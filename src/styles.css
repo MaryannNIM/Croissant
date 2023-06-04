@@ -1,7 +1,7 @@
 :root {
   --font-family: var(--sans-serif);
   --box-shadow: 10px 10px 4px rgba(1, 4, 34, 0.7);
-  --gradient: radial-gradient(rgb(52, 138, 141) 30%, rgb(85, 172, 74) 100%);
+  --gradient: linear-gradient(rgb(118, 62, 190) 30%, rgb(157, 172, 74) 100%);
 }
 
 body {
