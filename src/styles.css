@@ -36,6 +36,10 @@ p {
 .img-fluid {
   box-shadow: var(--box-shadow);
 }
-.github-link {
+footer {
   margin-top: 30px;
+  padding-top: 30px;
+}
+footer a {
+  text-decoration: none;
 }
